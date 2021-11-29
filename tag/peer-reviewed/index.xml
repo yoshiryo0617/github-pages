@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peer-reviewed | Ryo Yoshida</title>
+    <link>https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/</link>
+      <atom:link href="https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peer-reviewed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Peer-reviewed</title>
+      <link>https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Perplexity is Not Always Human-Like</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
