@@ -5,12 +5,20 @@
     <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/category/domestic/index.xml" rel="self" type="application/rss+xml" />
     <description>Domestic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Domestic</title>
       <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
     </image>
+    
+    <item>
+      <title>トランスフォーマー文法</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>再帰的ニューラルネットワーク文法による人間の文処理のモデリング</title>
