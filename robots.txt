@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yoshiryo0617.github.io/github-pages/sitemap.xml

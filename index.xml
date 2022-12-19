@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryo Yoshida</title>
+    <link>https://yoshiryo0617.github.io/github-pages/</link>
+      <atom:link href="https://yoshiryo0617.github.io/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryo Yoshida</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ryo Yoshida</title>
+      <link>https://yoshiryo0617.github.io/github-pages/</link>
+    </image>
+    
+    <item>
+      <title>Composition, Attention, or Both?</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2022-composition/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2022-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>チョムスキー階層とニューラル言語モデル</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2022-chomsky/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2022-chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>トランスフォーマー文法</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Argument Structures with Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-learning-argument-structures-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-learning-argument-structures-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-2022-modeling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-2022-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>研究課題「認知・脳情報処理による人間らしい言語処理モデルの開発」</title>
+      <link>https://yoshiryo0617.github.io/github-pages/project/sakigake/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/project/sakigake/</guid>
+      <description>&lt;!---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lower Perplexity is Not Always Human-Like</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Committee Award at NLP2021 (domestic conference)（言語処理学会第27回年次大会, 委員特別賞）(14/361=3.8%)</title>
+      <link>https://yoshiryo0617.github.io/github-pages/award/nlp2021_2/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/award/nlp2021_2/</guid>
+      <description>&lt;!---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Young Researcher Award at NLP2021 (domestic conference)（言語処理学会第27回年次大会, 若手奨励賞）(11/247=4.5%)</title>
+      <link>https://yoshiryo0617.github.io/github-pages/award/nlp2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/award/nlp2021/</guid>
+      <description>&lt;!---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>再帰的ニューラルネットワーク文法による人間の文処理のモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>予測の正確な言語モデルがヒトらしいとは限らない</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower-perp/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-lower-perp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日本語の読みやすさに対する情報量に基づいた統一的な解釈</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-readability/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2021-readability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再帰的ニューラルネットワーク文法によるヒト文処理のモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng-ling/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng-ling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yoshiryo0617.github.io/github-pages/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

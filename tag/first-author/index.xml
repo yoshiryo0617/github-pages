@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Author | Ryo Yoshida</title>
+    <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
+      <atom:link href="https://yoshiryo0617.github.io/github-pages/tag/first-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>First Author</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>First Author</title>
+      <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
+    </image>
+    
+    <item>
+      <title>チョムスキー階層とニューラル言語モデル</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2022-chomsky/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2022-chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>トランスフォーマー文法</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2022-transformer-grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再帰的ニューラルネットワーク文法による人間の文処理のモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再帰的ニューラルネットワーク文法によるヒト文処理のモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng-ling/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling-rnng-ling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

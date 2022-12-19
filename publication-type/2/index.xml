@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ryo Yoshida</title>
+    <link>https://yoshiryo0617.github.io/github-pages/publication-type/2/</link>
+      <atom:link href="https://yoshiryo0617.github.io/github-pages/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Learning Argument Structures with Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-learning-argument-structures-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-learning-argument-structures-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-2022-modeling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-2022-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
