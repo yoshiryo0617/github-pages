@@ -5,12 +5,52 @@
     <link>https://yoshiryo0617.github.io/github-pages/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Yoshida</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Yoshida</title>
       <link>https://yoshiryo0617.github.io/github-pages/</link>
     </image>
+    
+    <item>
+      <title>CCGによる日本語文処理のモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kajikawa-etal-2023-ccg/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kajikawa-etal-2023-ccg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>チョムスキー階層とニューラル言語モデル</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2023-chomsky/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2023-chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>左隅型再帰的ニューラルネットワーク文法による日本語 fMRI データのモデリング</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2023-lrnng-fmri/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2023-lrnng-fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>極小主義に動機づけられた統語的教示に基づく言語モデル</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/isono-etal-2023-mrnng/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/isono-etal-2023-mrnng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統語的構成や自己注意を持つ言語モデルは「人間らしい」のか？</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2023-composition-attention/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2023-composition-attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Composition, Attention, or Both?</title>

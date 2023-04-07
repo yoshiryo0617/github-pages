@@ -5,12 +5,28 @@
     <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/tag/first-author/index.xml" rel="self" type="application/rss+xml" />
     <description>First Author</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>First Author</title>
       <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
     </image>
+    
+    <item>
+      <title>極小主義に動機づけられた統語的教示に基づく言語モデル</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/isono-etal-2023-mrnng/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/isono-etal-2023-mrnng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統語的構成や自己注意を持つ言語モデルは「人間らしい」のか？</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2023-composition-attention/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-oseki-2023-composition-attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Composition, Attention, or Both?</title>
