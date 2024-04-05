@@ -5,12 +5,36 @@
     <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/category/domestic/index.xml" rel="self" type="application/rss+xml" />
     <description>Domestic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Domestic</title>
       <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
     </image>
+    
+    <item>
+      <title>Tree Planted Transformer: 統語的大規模言語モデルの構築に向けて</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tpt/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>どのような言語モデルが不可能な言語を学習してしまうのか？---語順普遍を例に---</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2024-word-order/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2024-word-order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工学的性能と人間らしさの関係はトークン分割に依存する</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/miwa-etal-2024-tokenization/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/miwa-etal-2024-tokenization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CCGによる日本語文処理のモデリング</title>

@@ -5,12 +5,20 @@
     <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/tag/first-author/index.xml" rel="self" type="application/rss+xml" />
     <description>First Author</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>First Author</title>
       <link>https://yoshiryo0617.github.io/github-pages/tag/first-author/</link>
     </image>
+    
+    <item>
+      <title>Tree Planted Transformer: 統語的大規模言語モデルの構築に向けて</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tpt/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tpt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>極小主義に動機づけられた統語的教示に基づく言語モデル</title>
