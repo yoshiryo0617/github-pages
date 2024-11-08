@@ -5,20 +5,12 @@
     <link>https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-reviewed</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Peer-reviewed</title>
       <link>https://yoshiryo0617.github.io/github-pages/tag/peer-reviewed/</link>
     </image>
-    
-    <item>
-      <title>Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree-planted-transformer/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree-planted-transformer/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Dissociating Syntactic Operations via Composition Count</title>

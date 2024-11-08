@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="In computational linguistics, it has been shown that hierarchical structures make language models (LMs) more human-like. However, the previous literature has been agnostic about a parsing strategy of the hierarchical models. In this paper, we investigated whether hierarchical structures make LMs more human-like, and if so, which parsing strategy is most cognitively plausible. In order to address this question, we evaluated three LMs against human reading times in Japanese with head-final left-branching structures: Long Short-Term Memory (LSTM) as a sequential model and Recurrent Neural Network Grammars (RNNGs) with top-down and left-corner parsing strategies as hierarchical models. Our computational modeling demonstrated that left-corner RNNGs outperformed top-down RNNGs and LSTM, suggesting that hierarchical and left-corner architectures are more cognitively plausible than top-down or sequential architectures. In addition, the relationships between the cognitive plausibility and (i) perplexity, (ii) parsing, and (iii) beam size will also be discussed." />
+  <meta name="description" content="Syntactic Language Models (SLMs) can be trained efficiently to reach relatively high performance; however, they have trouble with inference efficiency due to the explicit generation of syntactic structures. In this paper, we propose a new method dubbed tree-planting: instead of explicitly generating syntactic structures, we ``plant″ trees into attention weights of unidirectional Transformer LMs to implicitly reflect syntactic structures of natural language. Specifically, unidirectional Transformer LMs trained with tree-planting will be called Tree-Planted Transformers (TPT), which inherit the training efficiency from SLMs without changing the inference efficiency of their underlying Transformer LMs. Targeted syntactic evaluations on the SyntaxGym benchmark demonstrated that TPTs, despite the lack of explicit generation of syntactic structures, significantly outperformed not only vanilla Transformer LMs but also various SLMs that generate hundreds of syntactic structures in parallel. This result suggests that TPTs can learn human-like syntactic knowledge as data-efficiently as SLMs while maintaining the modeling space of Transformer LMs unchanged." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/" />
+  <link rel="alternate" hreflang="en-us" href="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/" />
 
   
   
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/" />
+  <link rel="canonical" href="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/" />
 
   
   
@@ -299,18 +299,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Ryo Yoshida" />
-  <meta property="og:url" content="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/" />
-  <meta property="og:title" content="Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars | Ryo Yoshida" />
-  <meta property="og:description" content="In computational linguistics, it has been shown that hierarchical structures make language models (LMs) more human-like. However, the previous literature has been agnostic about a parsing strategy of the hierarchical models. In this paper, we investigated whether hierarchical structures make LMs more human-like, and if so, which parsing strategy is most cognitively plausible. In order to address this question, we evaluated three LMs against human reading times in Japanese with head-final left-branching structures: Long Short-Term Memory (LSTM) as a sequential model and Recurrent Neural Network Grammars (RNNGs) with top-down and left-corner parsing strategies as hierarchical models. Our computational modeling demonstrated that left-corner RNNGs outperformed top-down RNNGs and LSTM, suggesting that hierarchical and left-corner architectures are more cognitively plausible than top-down or sequential architectures. In addition, the relationships between the cognitive plausibility and (i) perplexity, (ii) parsing, and (iii) beam size will also be discussed." /><meta property="og:image" content="https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/" />
+  <meta property="og:title" content="Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision | Ryo Yoshida" />
+  <meta property="og:description" content="Syntactic Language Models (SLMs) can be trained efficiently to reach relatively high performance; however, they have trouble with inference efficiency due to the explicit generation of syntactic structures. In this paper, we propose a new method dubbed tree-planting: instead of explicitly generating syntactic structures, we ``plant″ trees into attention weights of unidirectional Transformer LMs to implicitly reflect syntactic structures of natural language. Specifically, unidirectional Transformer LMs trained with tree-planting will be called Tree-Planted Transformers (TPT), which inherit the training efficiency from SLMs without changing the inference efficiency of their underlying Transformer LMs. Targeted syntactic evaluations on the SyntaxGym benchmark demonstrated that TPTs, despite the lack of explicit generation of syntactic structures, significantly outperformed not only vanilla Transformer LMs but also various SLMs that generate hundreds of syntactic structures in parallel. This result suggests that TPTs can learn human-like syntactic knowledge as data-efficiently as SLMs while maintaining the modeling space of Transformer LMs unchanged." /><meta property="og:image" content="https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-11-28T04:18:39&#43;00:00"
+        content="2024-11-08T00:33:45&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-11-28T13:16:02&#43;09:00">
+    <meta property="article:modified_time" content="2024-11-08T09:33:46&#43;09:00">
   
 
   
@@ -332,12 +332,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/"
+    "@id": "https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/"
   },
-  "headline": "Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars",
+  "headline": "Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision",
   
-  "datePublished": "2021-11-28T04:18:39Z",
-  "dateModified": "2021-11-28T13:16:02+09:00",
+  "datePublished": "2024-11-08T00:33:45Z",
+  "dateModified": "2024-11-08T09:33:46+09:00",
   
   "author": {
     "@type": "Person",
@@ -352,7 +352,7 @@
       "url": "https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "In computational linguistics, it has been shown that hierarchical structures make language models (LMs) more human-like. However, the previous literature has been agnostic about a parsing strategy of the hierarchical models. In this paper, we investigated whether hierarchical structures make LMs more human-like, and if so, which parsing strategy is most cognitively plausible. In order to address this question, we evaluated three LMs against human reading times in Japanese with head-final left-branching structures: Long Short-Term Memory (LSTM) as a sequential model and Recurrent Neural Network Grammars (RNNGs) with top-down and left-corner parsing strategies as hierarchical models. Our computational modeling demonstrated that left-corner RNNGs outperformed top-down RNNGs and LSTM, suggesting that hierarchical and left-corner architectures are more cognitively plausible than top-down or sequential architectures. In addition, the relationships between the cognitive plausibility and (i) perplexity, (ii) parsing, and (iii) beam size will also be discussed."
+  "description": "Syntactic Language Models (SLMs) can be trained efficiently to reach relatively high performance; however, they have trouble with inference efficiency due to the explicit generation of syntactic structures. In this paper, we propose a new method dubbed tree-planting: instead of explicitly generating syntactic structures, we ``plant″ trees into attention weights of unidirectional Transformer LMs to implicitly reflect syntactic structures of natural language. Specifically, unidirectional Transformer LMs trained with tree-planting will be called Tree-Planted Transformers (TPT), which inherit the training efficiency from SLMs without changing the inference efficiency of their underlying Transformer LMs. Targeted syntactic evaluations on the SyntaxGym benchmark demonstrated that TPTs, despite the lack of explicit generation of syntactic structures, significantly outperformed not only vanilla Transformer LMs but also various SLMs that generate hundreds of syntactic structures in parallel. This result suggests that TPTs can learn human-like syntactic knowledge as data-efficiently as SLMs while maintaining the modeling space of Transformer LMs unchanged."
 }
 </script>
 
@@ -368,11 +368,11 @@
 
 
 
-  <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars | Ryo Yoshida</title>
+  <title>Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision | Ryo Yoshida</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="813ffad460a52533157f88e8e0991748" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e74263a220045b1a6fec0edbfc50af24" >
 
   
   
@@ -709,7 +709,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</h1>
+  <h1>Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision</h1>
 
   
 
@@ -728,7 +728,7 @@
 
   <span >
       Ryo Yoshida</span>, <span >
-      Hiroshi Noji</span>, <span >
+      Taiga Someya</span>, <span >
       Yohei Oseki</span>
   </div>
   
@@ -740,7 +740,7 @@
     
       
     
-    November 2021
+    August 2024
   </span>
   
 
@@ -756,10 +756,6 @@
   
 
   
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/github-pages/category/international/">International</a></span>
   
 
 </div>
@@ -781,19 +777,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="https://aclanthology.org/2021.emnlp-main.235.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/github-pages/publication/yoshida-etal-2021-modeling/cite.bib">
+        data-filename="/github-pages/publication/yoshida-etal-2024-tree/cite.bib">
   Cite
 </a>
 
@@ -809,6 +799,38 @@
 
 
 
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.18653/v1/2024.findings-acl.303" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://aclanthology.org/2024.findings-acl.303" target="_blank" rel="noopener">
+    URL</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2402.12691" target="_blank" rel="noopener">
+    Preprint</a>
 
 
 </div>
@@ -823,7 +845,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In computational linguistics, it has been shown that hierarchical structures make language models (LMs) more human-like. However, the previous literature has been agnostic about a parsing strategy of the hierarchical models. In this paper, we investigated whether hierarchical structures make LMs more human-like, and if so, which parsing strategy is most cognitively plausible. In order to address this question, we evaluated three LMs against human reading times in Japanese with head-final left-branching structures: Long Short-Term Memory (LSTM) as a sequential model and Recurrent Neural Network Grammars (RNNGs) with top-down and left-corner parsing strategies as hierarchical models. Our computational modeling demonstrated that left-corner RNNGs outperformed top-down RNNGs and LSTM, suggesting that hierarchical and left-corner architectures are more cognitively plausible than top-down or sequential architectures. In addition, the relationships between the cognitive plausibility and (i) perplexity, (ii) parsing, and (iii) beam size will also be discussed.</p>
+    <p class="pub-abstract">Syntactic Language Models (SLMs) can be trained efficiently to reach relatively high performance; however, they have trouble with inference efficiency due to the explicit generation of syntactic structures. In this paper, we propose a new method dubbed tree-planting: instead of explicitly generating syntactic structures, we ``plant″ trees into attention weights of unidirectional Transformer LMs to implicitly reflect syntactic structures of natural language. Specifically, unidirectional Transformer LMs trained with tree-planting will be called Tree-Planted Transformers (TPT), which inherit the training efficiency from SLMs without changing the inference efficiency of their underlying Transformer LMs. Targeted syntactic evaluations on the SyntaxGym benchmark demonstrated that TPTs, despite the lack of explicit generation of syntactic structures, significantly outperformed not only vanilla Transformer LMs but also various SLMs that generate hundreds of syntactic structures in parallel. This result suggests that TPTs can learn human-like syntactic knowledge as data-efficiently as SLMs while maintaining the modeling space of Transformer LMs unchanged.</p>
     
 
     
@@ -851,7 +873,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing</em> (acceptance rate: 17.9%)</div>
+          <div class="col-12 col-md-9"><em>Findings of the Association for Computational Linguistics: ACL 2024</em> (acceptance rate: 43.4%)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -870,14 +892,6 @@
 
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/github-pages/tag/first-author/">First Author</a>
-  
-  <a class="badge badge-light" href="/github-pages/tag/peer-reviewed/">Peer-reviewed</a>
-  
-</div>
-
 
 
 <div class="share-box">
@@ -891,7 +905,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/&amp;text=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/&amp;text=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -904,7 +918,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/&amp;t=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/&amp;t=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -917,7 +931,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars&amp;body=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision&amp;body=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -930,7 +944,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/&amp;title=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/&amp;title=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -943,7 +957,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars%20https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision%20https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -956,7 +970,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2021-modeling/&amp;title=Modeling%20Human%20Sentence%20Processing%20with%20Left-Corner%20Recurrent%20Neural%20Network%20Grammars" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/&amp;title=Tree-Planted%20Transformers:%20Unidirectional%20Transformer%20Language%20Models%20with%20Implicit%20Syntactic%20Supervision" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1009,23 +1023,6 @@
 
 
   
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/github-pages/publication/yoshida-oseki-2022-composition/">Composition, Attention, or Both?</a></li>
-      
-      <li><a href="/github-pages/publication/sugimoto-2023-localizing/">Localizing Syntactic Composition with Left-Corner Recurrent Neural Network Grammars</a></li>
-      
-      <li><a href="/github-pages/publication/kajikawa-etal-2024-cc/">Dissociating Syntactic Operations via Composition Count</a></li>
-      
-      <li><a href="/github-pages/publication/someya-etal-2024-target/">Targeted Syntactic Evaluations on the Chomsky Hierarchy</a></li>
-      
-      <li><a href="/github-pages/publication/kuribayashi-etal-2021-lower/">Lower Perplexity is Not Always Human-Like</a></li>
-      
-    </ul>
-  </div>
   
 
 

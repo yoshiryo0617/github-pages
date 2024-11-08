@@ -5,7 +5,7 @@
     <link>https://yoshiryo0617.github.io/github-pages/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Yoshida</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Yoshida</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Emergent Word Order Universals from Cognitively-Motivated Language Models</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2024-emergent/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/kuribayashi-etal-2024-emergent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree-planted-transformer/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree-planted-transformer/</guid>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2024-tree/</guid>
       <description></description>
     </item>
     
