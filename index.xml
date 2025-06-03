@@ -5,12 +5,103 @@
     <link>https://yoshiryo0617.github.io/github-pages/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Yoshida</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Yoshida</title>
       <link>https://yoshiryo0617.github.io/github-pages/</link>
     </image>
+    
+    <item>
+      <title>Derivational Probing: Unveiling the Layer-wise Construction of Syntactic Structures in Neural Language Models</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-conll/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-conll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Psychometric Predictive Power of Syntactic Attention</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-investigating/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-acl/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-acl/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BCCWJ-MEG：日本語脳磁図データの構築</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2025-meg/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2025-meg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivational Probing：言語モデルにおける統語構造構築の解明</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アテンションが記憶想起の認知モデルたりうるならば、記憶の表現としては何が妥当か？</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>作業記憶の発達的特性が言語獲得の臨界期を形成する</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然言語における冪則と統語構造の関係の再考</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/nakaishi-etal-2025-power/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/nakaishi-etal-2025-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Paper Award at NLP2024 (domestic conference)（言語処理学会第31回年次大会, 最優秀賞）(1/777=0.1%)</title>
+      <link>https://yoshiryo0617.github.io/github-pages/award/nlp2025/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/award/nlp2025/</guid>
+      <description>&lt;!---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+---&gt;
+</description>
+    </item>
     
     <item>
       <title>Emergent Word Order Universals from Cognitively-Motivated Language Models</title>

@@ -5,12 +5,52 @@
     <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/category/domestic/index.xml" rel="self" type="application/rss+xml" />
     <description>Domestic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Domestic</title>
       <link>https://yoshiryo0617.github.io/github-pages/category/domestic/</link>
     </image>
+    
+    <item>
+      <title>BCCWJ-MEG：日本語脳磁図データの構築</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2025-meg/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/sugimoto-etal-2025-meg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivational Probing：言語モデルにおける統語構造構築の解明</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アテンションが記憶想起の認知モデルたりうるならば、記憶の表現としては何が妥当か？</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>作業記憶の発達的特性が言語獲得の臨界期を形成する</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然言語における冪則と統語構造の関係の再考</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/nakaishi-etal-2025-power/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/nakaishi-etal-2025-power/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tree Planted Transformer: 統語的大規模言語モデルの構築に向けて</title>
