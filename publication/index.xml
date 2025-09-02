@@ -5,7 +5,7 @@
     <link>https://yoshiryo0617.github.io/github-pages/publication/</link>
       <atom:link href="https://yoshiryo0617.github.io/github-pages/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ryo Yoshida</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yoshiryo0617.github.io/github-pages/media/icon_hu8cf25910046c742bb7346460bd669f0c_2023457_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>Derivational Probing: Unveiling the Layer-wise Construction of Syntactic Structures in Neural Language Models</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-conll/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-conll/</guid>
+      <title>Derivational Probing: Unveiling the Layer-wise Derivation of Syntactic Structures in Neural Language Models</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?</title>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-attention/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Psychometric Predictive Power of Syntactic Attention</title>
       <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-investigating/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-investigating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-acl/</link>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-acl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-acl/</link>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-acl/</guid>
       <description></description>
     </item>
     
@@ -54,25 +54,25 @@
     
     <item>
       <title>Derivational Probing：言語モデルにおける統語構造構築の解明</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</link>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-nlp/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational/</guid>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/someya-etal-2025-derivational-nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>アテンションが記憶想起の認知モデルたりうるならば、記憶の表現としては何が妥当か？</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</link>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-nlp/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention/</guid>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/yoshida-etal-2025-if-attention-nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>作業記憶の発達的特性が言語獲得の臨界期を形成する</title>
-      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</link>
+      <link>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-nlp/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally/</guid>
+      <guid>https://yoshiryo0617.github.io/github-pages/publication/mita-etal-2025-developmentally-nlp/</guid>
       <description></description>
     </item>
     
